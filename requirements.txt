@@ -1,0 +1,10 @@
+
+opencv-python==4.14.0.94
+numpy==2.4.6
+tensorflow
+fastapi
+uvicorn[standard]
+python-multipart
+SQLAlchemy
+PyMySQL
+python-dotenv
